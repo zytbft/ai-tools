@@ -103,18 +103,20 @@
 - ☕ **请我们喝一杯咖啡**：支持我们的日常运营和开发维护。
 - ❤️ **赞助**：您的支持将帮助我们持续改进和创新。
 
-### 您可以通过以下方式支持我们：
+### 您可以通过以下方式，支持我们：
 
-<div style="display: flex; align-items: center; justify-content: space-evenly;">
-  <div style="text-align: center;">
-    <img src="./wechat-qrcode.png" alt="微信支付二维码" width="200" />
-    <p>微信支付</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="./alipay-qrcode.png" alt="支付宝支付二维码" width="200" />
-    <p>支付宝支付</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./wechat-qrcode.png" alt="微信支付二维码" width="200" /><br />
+      微信支付
+    </td>
+    <td align="center">
+      <img src="./alipay-qrcode.png" alt="支付宝支付二维码" width="200" /><br />
+      支付宝支付
+    </td>
+  </tr>
+</table>
 
 #### PayPal
 [Buy Me a Coffee](https://www.paypal.com/paypalme/zytai/3) 支持我们，感谢您的贡献！
