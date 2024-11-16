@@ -112,7 +112,7 @@
 ![支付宝支付二维码](./alipay-qrcode.png)
 
 #### PayPal
-[Buy Me a Coffee](https://www.buymeacoffee.com/zytai) 支持我们，感谢您的贡献！
+[Buy Me a Coffee](https://www.paypal.com/paypalme/yourusername/3) 支持我们，感谢您的贡献！
 
 ---
 
