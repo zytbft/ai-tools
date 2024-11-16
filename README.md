@@ -105,11 +105,16 @@
 
 ### 您可以通过以下方式支持我们：
 
-#### 微信支付
-<img src="./wechat-qrcode.png" alt="微信支付二维码" width="200" />
-
-#### 支付宝支付
-<img src="./alipay-qrcode.png" alt="支付宝支付二维码" width="200" />
+<div style="display: flex; align-items: center; justify-content: space-evenly;">
+  <div style="text-align: center;">
+    <img src="./wechat-qrcode.png" alt="微信支付二维码" width="200" />
+    <p>微信支付</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="./alipay-qrcode.png" alt="支付宝支付二维码" width="200" />
+    <p>支付宝支付</p>
+  </div>
+</div>
 
 #### PayPal
 [Buy Me a Coffee](https://www.paypal.com/paypalme/zytai/3) 支持我们，感谢您的贡献！
