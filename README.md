@@ -46,6 +46,7 @@
 | [Scribble Diffusion](https://scribblediffusion.com) | 将手绘草图转化为精美图像的 AI 工具。 |
 | [Let’s Enhance](https://letsenhance.io) | AI 图像增强工具，可提升分辨率和质量。 |
 | [BigJPG](https://bigjpg.com) | 专为插画和动漫图像设计的 AI 放大工具。 |
+| RMBG 2.0 | AI抠图工具，由 BRIA AI 开发的开源图像背景移除模型，基于 BiRefNet 架构，提供高精度的前景与背景分离，适用于电子商务、广告、游戏开发等领域。 |
 
 ---
 
