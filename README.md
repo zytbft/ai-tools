@@ -34,6 +34,7 @@
 
 | 工具名称 | 功能描述 |
 | --- | --- |
+| Flux AI |(https://flux-ai.io)|由 Black Forest Labs 开发的先进 AI 图像生成平台，利用 Flux.1 模型将文本或图像转换为高质量视觉内容，支持多种风格和格式，适用于艺术创作和商业项目。
 | [DALL·E 3](https://www.bing.com/create) | OpenAI 的图像生成模型，可根据文本描述生成高质量图像。 |
 | [Midjourney](https://www.midjourney.com) | 通过 Discord 平台提供的 AI 图像生成工具，适合艺术创作。 |
 | [Stable Diffusion](https://stability.ai) | 开源的图像生成模型，支持自定义和扩展。 |
